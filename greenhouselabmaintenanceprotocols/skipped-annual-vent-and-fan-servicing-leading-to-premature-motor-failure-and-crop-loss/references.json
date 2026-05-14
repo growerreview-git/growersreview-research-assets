@@ -1,0 +1,57 @@
+{
+  "cluster": "Skipped annual vent and fan servicing leading to premature motor failure and crop loss",
+  "macro": "greenhouse_lab_maintenance_protocols",
+  "pillar_article": {
+    "title": "Skipped Greenhouse Vent & Fan Servicing: What Growers Miss Before Motor Failure",
+    "url": "https://growersreview.com/how-to-diagnose-and-prevent-skipped-vent-and-fan-servicing-leading-to-premature-motor-fail/",
+    "relationship": "primary backlink target"
+  },
+  "support_articles": [
+    {
+      "article_type": "audit",
+      "title": "Is Your Setup Causing Skipped Vent & Fan Servicing? Diagnose Motor Failure Signs",
+      "url": "https://growersreview.com/is-your-setup-causing-skipped-vent-and-fan-servicing-leading-to-premature-motor-failure/",
+      "relationship": "supporting cluster article"
+    },
+    {
+      "article_type": "bofu_usecase_1",
+      "title": "Fix Skipped Vent & Fan Servicing: Prevent Motor Failure & Crop Loss Now",
+      "url": "https://growersreview.com/how-to-fix-skipped-vent-and-fan-servicing-leading-to-premature-motor-failure-without-guess-2/",
+      "relationship": "supporting cluster article"
+    },
+    {
+      "article_type": "bofu_usecase_2",
+      "title": "Upgrade Greenhouse Ventilation: Prevent Motor Failure in High Humidity & Dust",
+      "url": "https://growersreview.com/upgrade-greenhouse-ventilation-high-humidity-dust/",
+      "relationship": "supporting cluster article"
+    },
+    {
+      "article_type": "shortlist_top10",
+      "title": "Top 10 Greenhouse Fans & Vents for Preventing Motor Failure",
+      "url": "https://growersreview.com/top-greenhouse-fans-vents-prevent-motor-failure/",
+      "relationship": "supporting cluster article"
+    },
+    {
+      "article_type": "comparison",
+      "title": "Greenhouse Fan Motors: Serviceable vs. Sealed for Failure Prevention",
+      "url": "https://growersreview.com/serviceable-vs-sealed-motors-greenhouse-fan-motor-failure/",
+      "relationship": "supporting cluster article"
+    },
+    {
+      "article_type": "decision_roi",
+      "title": "ROI: Service or Replace Greenhouse Fans to Prevent Motor Failure",
+      "url": "https://growersreview.com/roi-service-replace-greenhouse-fan-motor-failure/",
+      "relationship": "supporting cluster article"
+    }
+  ],
+  "github_assets": {
+    "readme": "/content/drive/MyDrive/growersreview_2027_unfair_advantage/03_content/greenhouse_lab_maintenance_protocols/skipped-annual-vent-and-fan-servicing-leading-to-premature-motor-failure-and-crop-loss/marketing_assets/github_readme/README.md",
+    "decision_matrix": "/content/drive/MyDrive/growersreview_2027_unfair_advantage/03_content/greenhouse_lab_maintenance_protocols/skipped-annual-vent-and-fan-servicing-leading-to-premature-motor-failure-and-crop-loss/marketing_assets/github_readme/decision-matrix.csv",
+    "maintenance_checklist": "/content/drive/MyDrive/growersreview_2027_unfair_advantage/03_content/greenhouse_lab_maintenance_protocols/skipped-annual-vent-and-fan-servicing-leading-to-premature-motor-failure-and-crop-loss/marketing_assets/github_readme/maintenance-checklist.json",
+    "diagnostic_flow": "/content/drive/MyDrive/growersreview_2027_unfair_advantage/03_content/greenhouse_lab_maintenance_protocols/skipped-annual-vent-and-fan-servicing-leading-to-premature-motor-failure-and-crop-loss/marketing_assets/github_readme/diagnostic-flow.md",
+    "common_failure_patterns": "/content/drive/MyDrive/growersreview_2027_unfair_advantage/03_content/greenhouse_lab_maintenance_protocols/skipped-annual-vent-and-fan-servicing-leading-to-premature-motor-failure-and-crop-loss/marketing_assets/github_readme/common-failure-patterns.md",
+    "buying_red_flags": "/content/drive/MyDrive/growersreview_2027_unfair_advantage/03_content/greenhouse_lab_maintenance_protocols/skipped-annual-vent-and-fan-servicing-leading-to-premature-motor-failure-and-crop-loss/marketing_assets/github_readme/buying-red-flags.json",
+    "grower_audit_template": "/content/drive/MyDrive/growersreview_2027_unfair_advantage/03_content/greenhouse_lab_maintenance_protocols/skipped-annual-vent-and-fan-servicing-leading-to-premature-motor-failure-and-crop-loss/marketing_assets/github_readme/grower-audit-template.md"
+  },
+  "generated_at": "2026-05-10T16:56:13.493125+00:00"
+}
