@@ -1,0 +1,50 @@
+{
+  "cluster": "Skipped annual vent and fan servicing leading to premature motor failure and crop loss",
+  "pillar_article": {
+    "title": "Skipped Greenhouse Vent & Fan Servicing: What Growers Miss Before Motor Failure",
+    "url": "https://growersreview.com/how-to-diagnose-and-prevent-skipped-vent-and-fan-servicing-leading-to-premature-motor-fail/"
+  },
+  "generated_at": "2026-05-10T16:56:13.464581+00:00",
+  "checklist_items": [
+    {
+      "item": "Dust and debris accumulation on fan blades and motor windings",
+      "status": "unchecked",
+      "source_guide": "https://growersreview.com/how-to-diagnose-and-prevent-skipped-vent-and-fan-servicing-leading-to-premature-motor-fail/"
+    },
+    {
+      "item": "Lack of lubrication on motor bearings",
+      "status": "unchecked",
+      "source_guide": "https://growersreview.com/how-to-diagnose-and-prevent-skipped-vent-and-fan-servicing-leading-to-premature-motor-fail/"
+    },
+    {
+      "item": "Loose electrical connections leading to arcing and overheating",
+      "status": "unchecked",
+      "source_guide": "https://growersreview.com/how-to-diagnose-and-prevent-skipped-vent-and-fan-servicing-leading-to-premature-motor-fail/"
+    },
+    {
+      "item": "Worn belts causing reduced efficiency and motor strain",
+      "status": "unchecked",
+      "source_guide": "https://growersreview.com/how-to-diagnose-and-prevent-skipped-vent-and-fan-servicing-leading-to-premature-motor-fail/"
+    },
+    {
+      "item": "Motor winding resistance for insulation integrity",
+      "status": "unchecked",
+      "source_guide": "https://growersreview.com/how-to-diagnose-and-prevent-skipped-vent-and-fan-servicing-leading-to-premature-motor-fail/"
+    },
+    {
+      "item": "Bearing play and noise",
+      "status": "unchecked",
+      "source_guide": "https://growersreview.com/how-to-diagnose-and-prevent-skipped-vent-and-fan-servicing-leading-to-premature-motor-fail/"
+    },
+    {
+      "item": "Fan blade balance and cleanliness",
+      "status": "unchecked",
+      "source_guide": "https://growersreview.com/how-to-diagnose-and-prevent-skipped-vent-and-fan-servicing-leading-to-premature-motor-fail/"
+    },
+    {
+      "item": "Current draw (amperage) of the motor",
+      "status": "unchecked",
+      "source_guide": "https://growersreview.com/how-to-diagnose-and-prevent-skipped-vent-and-fan-servicing-leading-to-premature-motor-fail/"
+    }
+  ]
+}
